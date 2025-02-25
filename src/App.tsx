@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <h1>ANATOLEARN :3</h1>
+    <h1>Explora - Aprende - Late</h1>
     </>
   )
 }
